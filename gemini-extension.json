@@ -1,0 +1,11 @@
+{
+  "name": "mcprush",
+  "version": "1.0.0",
+  "description": "Search the mcprush.com catalogue of MCP servers and agent skills: what each does, its security grade, price, and the exact command that adds it to Gemini CLI or another client.",
+  "mcpServers": {
+    "mcprush": {
+      "httpUrl": "https://mcprush.com/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
